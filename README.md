@@ -193,3 +193,5 @@ Only a percentage of people need to sleep for night to transition
 ### FallingTree
 
 Chops down the whole tree because some of these new trees are tall as fuck
+
+Works with any axe
