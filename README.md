@@ -18,7 +18,7 @@ Launch the minecraft launcher and you should see this option available:
 Now select `Installations` at the top of the launcher. Select the three dots next to your forge installation and select edit:
 ![Forge Installer 3](images/forge-installer-3.png)
 
-Select `More Options v` towards the bottom.
+Select `More Options` towards the bottom.
 
 Change `-Xmx2G` to `-Xmx4G` under `JVM Arguments`:
 ![Forge Installer 4](images/forge-installer-4.png) -> ![Forge Installer 5](images/forge-installer-5.png)
@@ -38,7 +38,7 @@ Move the `mods.zip` file into this window and unzip it
 ![Mod Install 3](images/mod-install-3.png)
 - You may delete the `mods.zip` folder if you wish, but do not unzip any of the `.jar` files
 
-Close and Relaunch the game and verify that you have `30` mods installed
+Close and Relaunch the game and verify that you have `32` mods installed
 - Note that it may take the game longer than normal to start with all of the mods
 ![Mod Install 4](images/mod-install-4.png)
 
@@ -183,3 +183,13 @@ adds a compass that can locate structures (temples, villages, etc)
 ### Nature's Compass
 
 adds a compass that can locate specific biomes (including moded ones)
+
+## QOL
+
+### EasierSleeping
+
+Only a percentage of people need to sleep for night to transition
+
+### FallingTree
+
+Chops down the whole tree because some of these new trees are tall as fuck
